@@ -1,6 +1,5 @@
 body {
-  background-color: hsl(36, 43%, 95%);
-  background: url("https://pagecdn.io/lib/subtlepatterns/inspiration-geometry.png");
+  background: hsl(36, 43%, 95%) url("https://pagecdn.io/lib/subtlepatterns/inspiration-geometry.png");
   font-family: "Open Sans", sans-serif;
 }
 
@@ -123,22 +122,33 @@ section h2 {
   background-color: hsl(36, 43%, 75%);
 }
 
-footer {
-  text-align: center;
-}
-
-footer a {
-  color: hsl(36, 43%, 25%);
-  display: inline-block;
+.author {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: row nowrap;
+  color: #5b4524;
   font-size: 14px;
   margin: 0 auto;
   padding: 15px 25px;
   text-decoration: none;
+}
+
+.author span {
+  display: block;
+}
+
+.author svg {
+  display: inline;
+  fill: #5b4524;
+  margin-right: 5px;
+  width: 20px;
+  height: 20px;
   transition: 0.2s;
 }
 
-footer a:hover {
-  color: hsl(36, 43%, 55%);
+.author:hover svg {
+  fill: #be965b;
 }
 
 @media (max-width: 560px) {
