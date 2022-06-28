@@ -16,7 +16,10 @@ The end result should fulfill all the user stories specified in the [project's d
 
 The following were used for the creation of this project:
 
-<img src="https://github.com/theColorDude/theColorDude/blob/main/assets/html5-original.svg" width="100" title="HTML5" /> <img src="https://github.com/theColorDude/theColorDude/blob/main/assets/css3-original.svg" width="100" title="CSS3" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" title="CSS3" />
+</p>
 
 ## Resources
 
