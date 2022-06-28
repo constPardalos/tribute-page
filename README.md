@@ -1,4 +1,4 @@
-# <img src="/assets/favicon.png" width="22"/> Tribute Page
+# <img src="assets/favicon.png" width="22"/> Tribute Page
 
 [Live Demo](https://thecolordude.github.io/tribute-page/)
 
@@ -9,7 +9,7 @@ This is an assignment project from [freeCodeCamp.org](https://www.freecodecamp.o
 The goal of this project is to create a tribute page using HTML, CSS and JavaScript if needed.
 The end result should fulfill all the user stories specified in the [project's description](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
 
-<img src="/assets/preview.png" />
+<img src="assets/preview.png" />
 
 
 ## Languages & Tools
