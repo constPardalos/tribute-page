@@ -1,6 +1,6 @@
 # <img src="assets/favicon.png" width="22"/> Tribute Page
 
-[Live Demo](https://thecolordude.github.io/tribute-page/)
+[Live Demo](https://constPardalos.github.io/tribute-page/)
 
 ## Description
 
